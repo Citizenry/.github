@@ -1,7 +1,3 @@
 # Welcome to Citizenry Technology Github!
 
-## Overview
-
-## Mission
-
-## Sites/Services
+## [Visit our site for more info!](https://citizenry.technology)
